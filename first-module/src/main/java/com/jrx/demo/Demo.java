@@ -1,5 +1,7 @@
 package com.jrx.demo;
 
+import java.util.logging.Logger;
+
 /**
  * @Author: sunchuanyin
  * @Date: 2019/3/14 15:28
@@ -7,7 +9,7 @@ package com.jrx.demo;
  */
 public class Demo {
 
-    public static void main(String[] args) {
-        System.out.println("helloworld");
+        public static void main(String[] args) {
+
     }
 }
